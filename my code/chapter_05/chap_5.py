@@ -8,3 +8,7 @@ for cars in cars:
         print("i love the rs8 model in AUDI")
     else:
         print(f"{cars} has great models.")
+
+
+car = BMW
+car == BMW

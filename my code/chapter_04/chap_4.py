@@ -1,18 +1,15 @@
-my_list = ["food", "cars", "shoes", "shirts"]
+pizza = ["chicken", "mushroon", "chesse", "peperoni"]
 
-for item in my_list:
-    print(f"i want {item}.")
+for flavour in pizza:
+    if pizza == "peperoni":
+        print(f"i love peperoni")
+    else:
+        print(f"i dont want {flavour} i want peperoni")
+        
+  
 
 
+clothes = ["shoes", "shirt"]
 
-for each_number in range(5, 20):
-    print(each_number)
-
-
-
-my_new_list = list(range(5, 20, 5))
-
-print(my_new_list)
-
-my_family = ["mom", "dad", "brothers"]
-edit_family = my_family
+for item in clothes:
+    print(f"i want to wear {item} today")
