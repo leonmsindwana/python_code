@@ -50,6 +50,3 @@
 # print(random_person["age"])
 # print(random_person['city'])
 
-
-message = input("what car would you like to buy?")
-print(message)
