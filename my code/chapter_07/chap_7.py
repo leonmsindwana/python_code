@@ -37,17 +37,19 @@
 
 
 
-random_person = {   
-    "first_name": "leon",
-    "last_name": "msindwana",
-    "age" : "19",
-    "city": "Jozi"
+# random_person = {   
+#     "first_name": "leon",
+#     "last_name": "msindwana",
+#     "age" : "19",
+#     "city": "Jozi"
 
-}
+# }
 
-print(random_person["first_name"])
-print(random_person["last_name"])
-print(random_person["age"])
-print(random_person['city'])
+# print(random_person["first_name"])
+# print(random_person["last_name"])
+# print(random_person["age"])
+# print(random_person['city'])
 
 
+message = input("what car would you like to buy?")
+print(message)
