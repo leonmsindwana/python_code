@@ -20,13 +20,21 @@
 # math(2, 2)
 
 
-def leon_profile(height, fav_number, sport, **my_info):
+# def leon_profile(height, fav_number, sport, **my_info):
 
-    my_info['height'] = height
-    my_info['sport'] = sport
-    my_info['favourite number'] = fav_number
-    return my_info
+#     my_info['height'] = height
+#     my_info['sport'] = sport
+#     my_info['favourite number'] = fav_number
+#     return my_info
 
-leo_profile =leon_profile('tall', '7', 'soccer')
+# leo_profile =leon_profile('tall', '7', 'soccer')
 
-print(leo_profile)
+# print(leo_profile)
+
+def display_message(message):
+    print(f"Hello guys {message} ")
+
+display_message("how are you today")
+
+
+
