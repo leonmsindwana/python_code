@@ -34,7 +34,6 @@
 def display_message(message):
     print(f"Hello guys {message} ")
 
-display_message("how are you today")
-
+display_message("how are you today.")
 
 
