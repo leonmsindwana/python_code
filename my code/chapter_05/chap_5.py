@@ -10,5 +10,3 @@ for cars in cars:
         print(f"{cars} has great models.")
 
 
-car = BMW
-car == BMW

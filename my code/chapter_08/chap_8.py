@@ -31,9 +31,13 @@
 
 # print(leo_profile)
 
-def display_message(message):
-    print(f"Hello guys {message} ")
+# def display_message(message):
+#     print(f"Hello guys {message} ")
 
-display_message("how are you today.")
+# display_message("how are you today.")
 
 
+# def message(text):
+#     print(f"i am in love with {text}")
+
+# message("yolie")
