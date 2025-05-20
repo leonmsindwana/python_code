@@ -1,7 +1,7 @@
-count = 5
-while count > 0:
-    print(count)
-    count -= 1
+import js2py
 
-print("take off!!")
-    
+js1 = 'console.log("hello Leon")'
+
+res1 = js2py.eval_js(js1)
+
+print(res1)
